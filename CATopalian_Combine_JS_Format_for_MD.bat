@@ -24,9 +24,11 @@ for /r %%i in (*.js) do (
 
 echo "Files combined into %output% successfully."
 
-:: For bigger projects with many JS files, the process will take a few moments longer, as we witness the main.md file size getting bigger as it builds the file! We make sure to let the process complete, so that all JS content is copied and formatted completely.
+:: For bigger projects with many JS files, the process will take a few moments longer, as we witness the main.md file size getting bigger as it builds the file!
+:: We make sure to let the process complete, so that all JS content is copied and formatted completely.
 
-:: IMPORTANT: Make sure there is a NEW LINE at the end of each of the JS scripts in our folder! This ensures proper formatting in our generated main.md file.
+:: IMPORTANT: Make sure there is a NEW LINE at the end of each of the JS scripts in our folder!
+:: This ensures proper formatting in our generated main.md file.
 
 :: Dedicated to God the Father
 :: All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
