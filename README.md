@@ -5,6 +5,10 @@ In other words, we make a book from our scripts folder instantly by double click
 
 ---
 
+Video: https://www.youtube.com/watch?v=cFNz_I8v-Mw
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
