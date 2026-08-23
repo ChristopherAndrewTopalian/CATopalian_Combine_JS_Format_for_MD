@@ -3,6 +3,8 @@ Double click on this bat file to copy all JS file contents into one md file that
 
 In other words, we make a book from our scripts folder instantly by double clicking our bat file!
 
+We just make sure to put a NEW LINE at the end of EVERY SCRIPT, and then we can double click the bat file to make the book.
+
 ---
 
 Video: https://www.youtube.com/watch?v=cFNz_I8v-Mw
